@@ -64,8 +64,9 @@ World Bank API → Python Data Extraction → Raw Data Storage → Data Cleaning
 - Data quality checks.
 - Project documentation.
 
-8. Repository Structure
+8. ## Repository Structure
 
+```text
 nigeria-macroeconomic-data-pipeline/
 │
 ├── data/
@@ -73,13 +74,9 @@ nigeria-macroeconomic-data-pipeline/
 │   └── processed/
 │
 ├── src/
-│
 ├── sql/
-│
 ├── tests/
-│
 ├── docs/
-│
 ├── .gitignore
 └── README.md
 
